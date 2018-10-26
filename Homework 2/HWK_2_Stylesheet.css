@@ -1,0 +1,64 @@
+h1 {
+	text-align: center;
+	color: maroon;
+}
+
+#leftnav {
+	border-style: solid;
+	position:absolute;
+	top:100px;
+	width: 30%;
+	text-align:center;
+}
+
+#centernav{
+
+	border-style: solid;
+	position:absolute;
+	top:100px;
+	left:33%;
+	width: 30%;
+	text-align: center;
+}
+
+#rightnav{
+	border-style: solid;
+	position:absolute;
+	top:100px;
+	left:66%;
+	width: 30%;
+	text-align: center;
+}
+#absolute{
+	position:absolute;
+	top:300px;
+
+}
+ul{
+	list-style-position: inside;
+}
+a {
+	color: maroon;
+}
+
+article{
+	width: 50%;
+}
+
+aside{
+	width: 50%;
+
+}
+
+h3{
+	color: blue;
+}
+
+h2{
+	color: orange;
+}
+
+mark{
+	background-color: red;
+	color: black;
+}

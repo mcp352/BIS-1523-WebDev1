@@ -1,0 +1,60 @@
+#info{
+	border-style: solid;
+	border-size: 2px;
+	width: 40%;
+}
+
+a{
+	color: maroon;
+}
+
+tr:nth-of-type(odd) {
+	background-color: #daaeaf;
+}
+
+table  {
+  border-collapse:collapse;
+  border: 2px solid black;
+  padding: 5px;
+  font-size: 80%; 
+}
+
+th {
+  background-color: maroon; 
+  border: 2px solid black;
+  color: white;  
+}
+
+td {
+   border: 1px solid black;
+   padding: 2px;
+   padding-left: 10px;
+   padding-right: 10px; 
+}
+
+/*
+table{
+	border-style: solid;
+	border-collapse: collapse;
+	border-size: 2px solid black;
+	padding: 5px;
+	position:absolute;
+	top: 175px;
+	left: 10%;
+
+}
+
+td, th {
+	border-style: solid;
+	border-color: black;
+	border-size: 1px;
+	padding: 8px;
+}
+
+th{
+	background-color: maroon;
+	color: white;
+	text-align: center;
+	border: 2px solid black;
+}
+*/

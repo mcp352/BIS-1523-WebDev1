@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	color: maroon;
+
+
+}
+#left{
+	text-align: left;
+	position: absolute;
+	top: 150px;
+	width: 30%;
+	left: 10%;
+}
+#center{
+	text-align: left;
+	position: absolute;
+	top: 150px;
+	width: 30%;
+	left: 40%;
+}
+#right{
+	text-align: left;
+	position: absolute;
+	top: 150px;
+	width: 30%;
+	left: 75%;
+}

@@ -1,0 +1,28 @@
+h1 {
+	color: maroon;
+}
+
+nav {
+	border-style: solid;
+	width: 25%;
+}
+a {
+	color: maroon;
+}
+article{
+	width: 50%;
+}
+aside{
+	width: 50%;
+
+}
+h3{
+	color: blue;
+}
+h2{
+	color: orange;
+}
+mark{
+	background-color: red;
+	color: black;
+}

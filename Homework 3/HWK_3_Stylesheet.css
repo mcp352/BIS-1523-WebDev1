@@ -1,0 +1,30 @@
+h1{
+	color:maroon;
+	text-align: center;
+}
+#thanks{
+	text-align: center;
+	border-style: solid;
+	position: absolute;
+	top:100px;
+	width:30%;
+	left: 15%;
+
+}
+#therest{
+	text-align:left;
+	position: absolute;
+	top:300px;
+	width:50%;
+
+}
+#textarea{
+	border-style: solid;
+}
+#rightimg{
+	position: absolute;
+	top:100px;
+	width:30%;
+	left:60%;
+	
+}

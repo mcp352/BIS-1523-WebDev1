@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Homework 4: Weighted Average</title>
+</head>
+<!--linking the stylesheets-->
+<link rel="stylesheet" href="HWK_4_weighted_avg.css">
+
+<body>
+
+	<header>
+		<h1>Homework 4 - Weighted Average</h1>
+	</header>
+
+	<div>
+		<h3>Instructions</h3>
+		<p>Enter in your grades in the area below. Your participation modifier should be between 0 and 5.</p>
+	</div>
+	<!--Making the form for the php document-->
+	<form action="HWK_4_weighted_avg.php" method="post">
+
+		<section id="left">
+			<p> Name: <input type="text" name="name" size="40"/> </p>
+			<p> Participation Modifier: <input type="text" name="participation" size="5"/></p>
+			<input type="submit" name="submit" value="Calculate!">
+		</section>
+
+		<section id="center">
+			<p> Exam 1: <input type="text" name="exam1" size="5"></p>
+			<p> Exam 2: <input type="text" name="exam2" size="5"></p>
+			<p> Exam 3: <input type="text" name="exam3" size="5"></p>
+		</section>
+
+		<section id="right">
+			<p> Homework 1: <input type="text" name="homework1" size="5"></p>
+			<p> Homework 2: <input type="text" name="homework2" size="5"></p>
+			<p> Homework 3: <input type="text" name="homework3" size="5"></p>
+			<p> Homework 4: <input type="text" name="homework4" size="5"></p>
+			<p> Homework 5: <input type="text" name="homework5" size="5"></p>
+		</section>
+	</form>
+</body>
+</html>

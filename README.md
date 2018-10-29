@@ -3,7 +3,7 @@ This repository is for my Web Development portfolio starting with my Web Develop
 
 ## Honor Code
 
-** None ** of my `code` is pushed to this repository until the due date for the assignment has passed.
+**None** of my `code` is pushed to this repository until the due date for the assignment has passed.
 
 ## Enjoy
 

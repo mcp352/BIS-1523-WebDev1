@@ -1,0 +1,74 @@
+/*Homework 7 list table
+	Programmer: Chase Pounders
+	Date Started: 9/18/2018
+	Date Finished:
+	Written for Mississippi State University - BIS1523 Intro to Web Development
+	Proffesor: Steve Canfield
+	*/
+h1{
+	text-align: center;
+	color: white;
+	border-color:black;
+	border-style: solid;
+	border-width: 2px;
+	background: maroon;
+	width: 50%;
+	margin: auto;
+}
+#leftbox{
+	text-align: left;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	width: 45%;
+	margin-left: 2%;
+	margin-right: 1%;
+	margin-top: 10px;
+}
+#listinput{
+	position:absolute;
+	right:1%;
+	top: 60px;
+	margin:auto;
+	width: 50%;
+	border-style: solid;
+	border-color:black;
+	border-width: 2px;
+}
+#textarea{
+	margin: 5px;
+}
+a{
+	color: maroon;
+}
+tr:nth-of-type(odd) {
+	background-color: #daaeaf;
+}
+
+
+
+
+table{
+	border-style: solid;
+	border-collapse: collapse;
+	border-size: 2px solid black;
+	margin-top: 10px;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+td, th {
+	border-style: solid;
+	border-color: black;
+	border-size: 1px;
+	padding: 8px;
+}
+
+th{
+	background-color: maroon;
+	color: white;
+	text-align: center;
+	border: 2px solid black;
+}
